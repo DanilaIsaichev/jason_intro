@@ -8,7 +8,7 @@
 "minItems": 1,
 "items": {
 "required": [
-"студент",
+"студент"
 ],
 "properties": {
 "студент": {
